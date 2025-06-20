@@ -1,16 +1,44 @@
-## Hi there 👋
+# Samyak Shah - Software Engineer (AI / Full Stack)
 
-<!--
-**samyakkshah/samyakkshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | AI, Full Stack, LLMs, RAGs, Agentic**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hi! I'm Samyak Shah, a passionate Software Engineer with expertise in AI and Full Stack Development. I love to code-even if it means doing it without sleep! My approach is professional, but I always aim for visually stunning, easy-to-use solutions.
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, TypeScript, JavaScript, Java
+- **Frameworks:** Next.js, React, Node.js, FastAPI, Flask, Express
+- **AI/ML:** LlamaIndex, LangChain, TensorFlow, Scikit-Learn, Transformers
+- **DevOps:** Docker, Kubernetes, CI/CD
+
+---
+
+## Projects
+
+- **whiteboard** – Collaborative whiteboarding tool
+- **finsight** – (RAG & Agentic, coming soon)
+- **worldwatch** – (RAG & Agentic, coming soon)
+
+*More projects to be uploaded soon!*
+
+---
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/samyakkshah)
+
+---
+
+> “I love to code”
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,react,nodejs,docker,fastapi,flask" alt="Tech Stack" />
+</div>
