@@ -21,9 +21,10 @@ Hi! I'm Samyak Shah, a passionate Software Engineer with expertise in AI and Ful
 
 ## Projects
 
+- **goodstories** – Agentic Workflow for automatic story creation
+- **finsight** – RAG Financial Research and Insights app
 - **whiteboard** – Collaborative whiteboarding tool
-- **finsight** – (RAG & Agentic, coming soon)
-- **worldwatch** – (RAG & Agentic, coming soon)
+- **worldwatch** – (RAG & Agentic non biased news app, coming soon)
 
 *More projects to be uploaded soon!*
 
