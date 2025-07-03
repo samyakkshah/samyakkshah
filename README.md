@@ -14,7 +14,7 @@ Hi! I'm Samyak Shah, a passionate Software Engineer with expertise in AI and Ful
 
 - **Languages:** Python, TypeScript, JavaScript, Java
 - **Frameworks:** Next.js, React, Node.js, FastAPI, Flask, Express
-- **AI/ML:** LlamaIndex, LangChain, TensorFlow, Scikit-Learn, Transformers
+- **AI/ML:** LlamaIndex, LangChain, LangGraph, TensorFlow, Scikit-Learn, Transformers
 - **DevOps:** Docker, Kubernetes, CI/CD
 
 ---
